@@ -1,0 +1,3 @@
+[submodule "thirdparties/llm_wiki"]
+	path = thirdparties/llm_wiki
+	url = https://github.com/mickorz/llm_wiki.git
