@@ -1,3 +1,7 @@
 [submodule "thirdparties/llm_wiki"]
 	path = thirdparties/llm_wiki
 	url = https://github.com/mickorz/llm_wiki.git
+[submodule "thirdparties/ai-content-kb"]
+	path = thirdparties/ai-content-kb
+	url = https://github.com/pandatalk8/ai-content-kb.git
+	branch = main
