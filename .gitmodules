@@ -5,3 +5,7 @@
 	path = thirdparties/ai-content-kb
 	url = https://github.com/pandatalk8/ai-content-kb.git
 	branch = main
+[submodule "thirdparties/llm-wiki-agent"]
+	path = thirdparties/llm-wiki-agent
+	url = https://github.com/SamurAIGPT/llm-wiki-agent.git
+	branch = main
