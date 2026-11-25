@@ -9,3 +9,7 @@
 	path = thirdparties/llm-wiki-agent
 	url = https://github.com/SamurAIGPT/llm-wiki-agent.git
 	branch = main
+[submodule "thirdparties/weknora"]
+	path = thirdparties/weknora
+	url = https://github.com/tencent/weknora.git
+	branch = main
